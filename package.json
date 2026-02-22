@@ -1,7 +1,7 @@
 {
   "name": "comp2156-test",
   "homepage":
-          "https://github.com/Aoisahar/comp2156-test",
+          "https://aoisahar.github.io/comp2156-test",
 
   "scripts": {
     "start": "react-scripts start",
