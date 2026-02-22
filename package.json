@@ -1,9 +1,15 @@
 {
+  "name": "comp2156-test",
+  "homepage":
+          "https://github.com/Aoisahar/comp2156-test",
+
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "echo \"Warning: No tests created yet.\"",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d buil"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
